@@ -1,4 +1,4 @@
-# Unit 2 overview
+# Unit 2 Overview
 
 Boolean expressions and conditionals: comparison operators, logical operators, `if`/`else`, `if`/`elif`/`else`.
 
