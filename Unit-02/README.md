@@ -40,13 +40,13 @@ Each row links to the problem statement. IDs follow `Unit-Chapter-Question`.
 
 ## Chapter 4 - `if` / `elif` / `else`
 
-| Problem                            | Title                      | Concept          | Skills practised                                                            |
-| ---------------------------------- | -------------------------- | ---------------- | --------------------------------------------------------------------------- |
-| [02-04-01](Chapter-04/02-04-01.md) | Day of the Week            | if / elif / else | Long elif chain mapping 1-7 to names; else branch for invalid input         |
-| [02-04-02](Chapter-04/02-04-02.md) | Number Sign Check          | if / elif / else | Three-way branch (>, <, else)                                               |
-| [02-04-03](Chapter-04/02-04-03.md) | The Tallest Sibling        | if / elif / else | Chained comparisons with and; handling ties; max() is banned                |
-| [02-04-04](Chapter-04/02-04-04.md) | Fizz Buzz Single Number    | if / elif / else | Order of conditions (check 3-and-5 first); % ; mixed text and number output |
-| [02-04-05](Chapter-04/02-04-05.md) | Federal Tax Bracket Finder | if / elif / else | elif ladder over numeric ranges; boundary values; float input               |
+| Problem                            | Title                      | Concept          |                                                    
+| ---------------------------------- | -------------------------- | ---------------- | 
+| [02-04-01](Chapter-04/02-04-01.md) | Day of the Week            | if / elif / else |
+| [02-04-02](Chapter-04/02-04-02.md) | Number Sign Check          | if / elif / else | 
+| [02-04-03](Chapter-04/02-04-03.md) | The Tallest Sibling        | if / elif / else | 
+| [02-04-04](Chapter-04/02-04-04.md) | Fizz Buzz Single Number    | if / elif / else |
+| [02-04-05](Chapter-04/02-04-05.md) | Federal Tax Bracket Finder | if / elif / else | 
 
 ## Notes
 
