@@ -1,4 +1,4 @@
-# Unit 1 overview
+# Unit 1 Overview
 
 Output and input, arithmetic formulas, and working with strings (indexing, slicing, character codes).
 
