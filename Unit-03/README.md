@@ -1,4 +1,4 @@
-# Unit 3 overview
+# Unit 3 Overview
 
 Loops: `while`, `for`, nested loops, loop control, and loops over strings. Includes one file-writing project.
 
